@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\bin\Debug\netcoreapp2.1\DataType04.deps.json
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\bin\Debug\netcoreapp2.1\DataType04.runtimeconfig.json
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\bin\Debug\netcoreapp2.1\DataType04.runtimeconfig.dev.json
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\bin\Debug\netcoreapp2.1\DataType04.dll
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\bin\Debug\netcoreapp2.1\DataType04.pdb
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\obj\Debug\netcoreapp2.1\DataType04.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\obj\Debug\netcoreapp2.1\DataType04.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\obj\Debug\netcoreapp2.1\DataType04.AssemblyInfo.cs
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\obj\Debug\netcoreapp2.1\DataType04.dll
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\obj\Debug\netcoreapp2.1\DataType04.pdb
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType04\obj\Debug\netcoreapp2.1\DataType04.csprojAssemblyReference.cache

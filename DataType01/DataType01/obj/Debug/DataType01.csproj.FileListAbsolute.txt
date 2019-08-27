@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType01\bin\Debug\DataType01.exe.config
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType01\bin\Debug\DataType01.exe
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType01\bin\Debug\DataType01.pdb
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType01\obj\Debug\DataType01.csprojAssemblyReference.cache
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType01\obj\Debug\DataType01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType01\obj\Debug\DataType01.exe
+C:\Users\user\Desktop\파일 관리자\github\C#Workspace\DataType01\DataType01\obj\Debug\DataType01.pdb
