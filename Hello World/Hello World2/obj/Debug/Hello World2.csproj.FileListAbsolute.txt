@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\파일 관리자\github\C#Workspace\Hello World\Hello World2\bin\Debug\Hello World2.exe.config
-C:\Users\user\Desktop\파일 관리자\github\C#Workspace\Hello World\Hello World2\bin\Debug\Hello World2.exe
-C:\Users\user\Desktop\파일 관리자\github\C#Workspace\Hello World\Hello World2\bin\Debug\Hello World2.pdb
-C:\Users\user\Desktop\파일 관리자\github\C#Workspace\Hello World\Hello World2\obj\Debug\Hello World2.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\파일 관리자\github\C#Workspace\Hello World\Hello World2\obj\Debug\Hello World2.exe
-C:\Users\user\Desktop\파일 관리자\github\C#Workspace\Hello World\Hello World2\obj\Debug\Hello World2.pdb
