@@ -16,7 +16,7 @@ namespace Array1
                 Console.WriteLine($"{s} ");
             Console.WriteLine('\n');
 
-            //방법2: 코드가 짧음, 동적으로 저장 가능
+            //방법2: 코드가 짧음, 동적으로 저장 가능!
             string[] array2 = new string[] { "안녕", "Hello", "World" };
             foreach (string s in array2)
                 Console.WriteLine($"{s} ");
