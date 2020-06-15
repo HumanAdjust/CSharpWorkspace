@@ -45,7 +45,9 @@ namespace WinFormDB04_SUID
         {
             string sql = "SELECT * FROM city WHERE id=@id";
             MySqlCommand cmd = new MySqlCommand(sql, conn);
-            cmd.Parameters.AddWithValue("@id", textBox1.Text);
+            cmd.CommandTimeout = 1;
+            cmd.CommandText = "USP_WAIT";
+            cmd.CommandType = CommandType.StoredProcedure;
 
             try
             {

@@ -23,7 +23,7 @@ namespace WinFormDB01
         private void Form1_Load(object sender, EventArgs e)
         {
             // 1. MySql 연결 설정
-            string connectionString = "server=localhost;port=3308;username=root;password=1234";
+            string connectionString = "server=pascal.ccjs8el6oepb.us-east-1.rds.amazonaws.com;port=3306;username=chrina;password=vktmzkf1219";
             conn = new MySqlConnection(connectionString);
 
             try
@@ -57,6 +57,15 @@ namespace WinFormDB01
             if(conn.State == ConnectionState.Open)
             {
                 conn.Close();
+                ShowDBConnectionState();
+            }
+        }
+
+        private void OpenConnection_Click(object sender, EventArgs e)
+        {
+            if (conn.State == ConnectionState.Closed)
+            {
+                conn.Open();
                 ShowDBConnectionState();
             }
         }

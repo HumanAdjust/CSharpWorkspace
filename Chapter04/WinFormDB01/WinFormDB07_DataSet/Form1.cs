@@ -24,12 +24,12 @@ namespace WinFormDB07_DataSet
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            conn = new MySqlConnection("server=localhost;port=3308;database=world;uid=root;pwd=1234");
-            dataAdapter = new MySqlDataAdapter("SELECT * FROM city", conn);
+            conn = new MySqlConnection("server=pascal.ccjs8el6oepb.us-east-1.rds.amazonaws.com;port=3306;username=chrina;password=Aa101023535.;database=Pascal;charset=utf8");
+            dataAdapter = new MySqlDataAdapter("SELECT * FROM Account", conn);
             dataSet = new DataSet();
 
-            dataAdapter.Fill(dataSet, "city");
-            dataGridView1.DataSource = dataSet.Tables["city"];
+            dataAdapter.Fill(dataSet, "Account");
+            dataGridView1.DataSource = dataSet.Tables["Account"];
         }
 
         private void btnSelect_Click(object sender, EventArgs e)

@@ -52,6 +52,7 @@
             this.OpenConnection.TabIndex = 1;
             this.OpenConnection.Text = "Open Connection";
             this.OpenConnection.UseVisualStyleBackColor = true;
+            this.OpenConnection.Click += new System.EventHandler(this.OpenConnection_Click);
             // 
             // CloseConnection
             // 
